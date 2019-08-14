@@ -1,0 +1,23 @@
+{
+  "name": "yeet",
+  "version": "1.0.0",
+  "description": "YEET!!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RKawaii/Yeet.git"
+  },
+  "author": "RKawaii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RKawaii/Yeet/issues"
+  },
+  "homepage": "https://github.com/RKawaii/Yeet#readme",
+  "devDependencies": {
+    "eslint": "^6.1.0"
+  },
+  "dependencies": {}
+}
